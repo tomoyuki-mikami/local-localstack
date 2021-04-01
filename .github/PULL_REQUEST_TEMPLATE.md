@@ -1,5 +1,0 @@
-# Changed
-- comment
-
-# LGTM
-- [ ] Mikami
